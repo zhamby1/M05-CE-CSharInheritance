@@ -1,0 +1,15 @@
+/workspaces/M05-CE-CSharInheritance/M05-Inheritance/bin/Debug/net8.0/M05-Inheritance
+/workspaces/M05-CE-CSharInheritance/M05-Inheritance/bin/Debug/net8.0/M05-Inheritance.deps.json
+/workspaces/M05-CE-CSharInheritance/M05-Inheritance/bin/Debug/net8.0/M05-Inheritance.runtimeconfig.json
+/workspaces/M05-CE-CSharInheritance/M05-Inheritance/bin/Debug/net8.0/M05-Inheritance.dll
+/workspaces/M05-CE-CSharInheritance/M05-Inheritance/bin/Debug/net8.0/M05-Inheritance.pdb
+/workspaces/M05-CE-CSharInheritance/M05-Inheritance/obj/Debug/net8.0/M05-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/M05-CE-CSharInheritance/M05-Inheritance/obj/Debug/net8.0/M05-Inheritance.AssemblyInfoInputs.cache
+/workspaces/M05-CE-CSharInheritance/M05-Inheritance/obj/Debug/net8.0/M05-Inheritance.AssemblyInfo.cs
+/workspaces/M05-CE-CSharInheritance/M05-Inheritance/obj/Debug/net8.0/M05-Inheritance.csproj.CoreCompileInputs.cache
+/workspaces/M05-CE-CSharInheritance/M05-Inheritance/obj/Debug/net8.0/M05-Inheritance.sourcelink.json
+/workspaces/M05-CE-CSharInheritance/M05-Inheritance/obj/Debug/net8.0/M05-Inheritance.dll
+/workspaces/M05-CE-CSharInheritance/M05-Inheritance/obj/Debug/net8.0/refint/M05-Inheritance.dll
+/workspaces/M05-CE-CSharInheritance/M05-Inheritance/obj/Debug/net8.0/M05-Inheritance.pdb
+/workspaces/M05-CE-CSharInheritance/M05-Inheritance/obj/Debug/net8.0/M05-Inheritance.genruntimeconfig.cache
+/workspaces/M05-CE-CSharInheritance/M05-Inheritance/obj/Debug/net8.0/ref/M05-Inheritance.dll
